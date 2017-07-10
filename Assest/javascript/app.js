@@ -18,8 +18,6 @@ function myTimer() {
     rscore++
       }
   timelimit--;
-  
-
 }
 //------------------------------------------------------------------------------------------------------
 
@@ -105,7 +103,7 @@ function checkAnswer(){
     renderQuestion();
      } else {
    renderResults(); 
-   
+ 
 }
 }
 
